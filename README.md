@@ -46,7 +46,7 @@ This project demonstrates the automation of a data pipeline using Python. I buil
 ## 💡 Key Insights
 
 - 🌡️ **Temperature:** Observed noticeable climate differences across the three cities.
-- 💧 **Humidity:** Accra recorded the highest humidity among the selected cities.
+- 💧 **Humidity:** Cape Town recorded the highest humidity among the selected cities.
 - ☁️ **Weather Conditions:** Different weather patterns were observed, ranging from rain to clear skies.
 
 ---
